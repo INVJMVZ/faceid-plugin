@@ -1,0 +1,11 @@
+{
+  "name": "faceid-plugin",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "faceid-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Plugin Android para el registro y reconocimiento de rostros que implementa la tecnología TrustFaceSDK"
+}
